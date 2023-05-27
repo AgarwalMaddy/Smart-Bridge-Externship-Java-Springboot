@@ -1,0 +1,74 @@
+.body{
+margin: auto;
+overflow: hidden;
+}
+
+#week{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+#assignment{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+.form1{
+    margin: 10%;
+    padding: 0;
+    border: 1cm;
+
+}
+
+.label{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.textField{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+#fNamelabel{
+    position: absolute;
+    top:20%;
+    left: 10%;
+}
+
+#fName{
+    position:absolute;
+    top: 20%;
+    left: 20%;
+
+}
+
+#lNamelabel{
+    position: absolute;
+    top:20%;
+    left: 40%;
+}
+
+#lName{
+    position:absolute;
+    top: 20%;
+    left: 50%;
+}
+
+#agelabel{
+    position: absolute;
+    top:25%;
+    left: 10%;
+
+}
+
+#age{
+    position:absolute;
+    top: 25%;
+    left: 20%;
+}
+
+#submit{
+    position: absolute;
+    top: 30%;
+    left: 40%;
+}
